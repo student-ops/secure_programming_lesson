@@ -1,0 +1,68 @@
+{
+    {
+  "action": "next",
+  "messages": [
+    {
+      "id": "aaa24241-e136-4d45-ba0f-f29e57d84b64",
+      "author": { "role": "user" },
+      "content": { "content_type": "text", "parts": ["hello how are you?"] },
+      "metadata": {}
+    }
+  ],
+  "conversation_id": "60402186-6d18-4eb8-88e6-ab542f3aad2c",
+  "parent_message_id": "54268739-cfa3-48f4-90ea-d2d2d4711bb9",
+  "model": "gpt-4",
+  "timezone_offset_min": -540,
+  "suggestions": [],
+  "history_and_training_disabled": false,
+  "arkose_token": "374178f3cd37b9c08.7568821304|r=ap-southeast-1|meta=3|metabgclr=transparent|metaiconclr=%23757575|guitextcolor=%23000000|pk=35536E1E-65B4-4D96-9D97-6ADB7EFF8147|at=40|sup=1|rid=77|ag=101|cdn_url=https%3A%2F%2Ftcr9i.chat.openai.com%2Fcdn%2Ffc|lurl=https%3A%2F%2Faudio-ap-southeast-1.arkoselabs.com|surl=https%3A%2F%2Ftcr9i.chat.openai.com|smurl=https%3A%2F%2Ftcr9i.chat.openai.com%2Fcdn%2Ffc%2Fassets%2Fstyle-manager",
+  "force_paragen": false
+}
+
+{
+    "conversation":{
+        "message":{
+            "text":"kinyoubi janai"
+        }
+    }
+}
+
+{
+
+}
+{
+// example request
+    "messages": [
+      {
+        "id": "aaa24241-e136-4d45-ba0f-f29e57d84b64",
+        "content": { "content_type": "text", "parts": ["hello how are you?"] },
+        "product_type": "smart_phone", // ボタンで選択
+        "metadata": {}
+      }
+    ],
+    "conversation_id": "60402186-6d18-4eb8-88e6-ab542f3aad2c",
+    "parent_message_id": "54268739-cfa3-48f4-90ea-d2d2d4711bb9",
+    "model": "gpt-4",
+    "suggestions": [],
+    "arkose_token": "374178f3cd37b9c08.7568821304|r=ap-southeast-1|meta=3|metabgclr=transparent|metaiconclr=%23757575|guitextcolor=%23000000|pk=35536E1E-65B4-4D96-9D97-6ADB7EFF8147|at=40|sup=1|rid=77|ag=101|cdn_url=https%3A%2F%2Ftcr9i.chat.openai.com%2Fcdn%2Ffc|lurl=https%3A%2F%2Faudio-ap-southeast-1.arkoselabs.com|surl=https%3A%2F%2Ftcr9i.chat.openai.com|smurl=https%3A%2F%2Ftcr9i.chat.openai.com%2Fcdn%2Ffc%2Fassets%2Fstyle-manager",
+}
+
+{
+    // "action": "next",
+    "messages": [
+      {
+        "id": "aaa24241-e136-4d45-ba0f-f29e57d84b64",
+        // "author": { "role": "user" },
+        "content": { "content_type": "text", "parts": ["hello how are you?"] },
+        "metadata": {}
+      }
+    ],
+    "conversation_id": "60402186-6d18-4eb8-88e6-ab542f3aad2c",
+    "parent_message_id": "54268739-cfa3-48f4-90ea-d2d2d4711bb9",
+    "model": "gpt-4",
+    // "timezone_offset_min": -540,
+    "suggestions": [],
+    "arkose_token": "374178f3cd37b9c08.7568821304|r=ap-southeast-1|meta=3|metabgclr=transparent|metaiconclr=%23757575|guitextcolor=%23000000|pk=35536E1E-65B4-4D96-9D97-6ADB7EFF8147|at=40|sup=1|rid=77|ag=101|cdn_url=https%3A%2F%2Ftcr9i.chat.openai.com%2Fcdn%2Ffc|lurl=https%3A%2F%2Faudio-ap-southeast-1.arkoselabs.com|surl=https%3A%2F%2Ftcr9i.chat.openai.com|smurl=https%3A%2F%2Ftcr9i.chat.openai.com%2Fcdn%2Ffc%2Fassets%2Fstyle-manager",
+    // "force_paragen": false
+  }
+}

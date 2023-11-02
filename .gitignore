@@ -1,0 +1,35 @@
+builD
+
+
+# ビルドファイル
+**/build/
+**/bin/
+**/.gradle/
+**/out/
+**/target/
+
+# IDE設定ファイル（IntelliJ IDEA、Eclipseなど）
+**/.idea/
+**/.project
+**/.classpath
+**/.settings/
+
+# Gradle関連のキャッシュとローカルディレクトリ
+**/.gradle/
+**/build/
+
+# Mac OSのファイル
+.DS_Store
+
+# システムファイル
+**/*.log
+**/*.swp
+
+# プロジェクト特有の設定ファイル（例: application.properties、application.yml）
+**/src/main/resources/application.properties
+**/src/main/resources/application.yml
+
+
+**/vscode/
+
+**/v_ubuntu/*
